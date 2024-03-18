@@ -1,0 +1,27 @@
+
+      < < AETHER X AYANE V1 > >
+          
+/////                    /////
+    CREATED BY AETHER X AYANE
+    BASE ORI AETHER X AYANE
+/////                    /////
+
+////!   WARNING   !////
+- JANGAN HAPUS BAGIAN INI!!!
+
+////    PANDUAN    ////
+  SET PP : ./lib/database/media
+  SET OWNER : ./lib/database/file/config.database.json
+  SET LIST : ./lib/database/media/store/list.js
+  SET CONFIG : ./lib/database/file/config.database.json
+////                  ////
+
+/////    THANKS TO    /////
+  YUSHAFAHAD (ME) : https://github.com/yushafahad17 
+  ARIFI RAZZAQ : https://github.com/vrzaq
+/////                   /////
+
+/////                    /////
+    CREATED BY AETHER X AYANE
+    BASE ORI AETHER X AYANE V1
+/////                    /////

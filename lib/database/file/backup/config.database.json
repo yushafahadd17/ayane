@@ -1,0 +1,37 @@
+{
+  "pairingNumber": "6285864727063",
+  "authorName": "Fahad",
+  "authorNumber": [
+    "6285798045817"
+  ],
+  "botName": "ᴀᴇᴛʜᴇʀ",
+  "footer": "© ᴀᴇᴛʜᴇʀ",
+  "myweb": "https://fahad-abdurrahman.skom.id",
+  "limitCount": {
+    "prem": 35,
+    "free": 15
+  },
+  "isPublic": true,
+  "autoAi": true,
+  "antiCall": true,
+  "userPrem": [
+    "6285798045817"
+  ],
+  "jadibotList": [],
+  "product": {
+    "02": {
+      "nama": "kaga",
+      "harga": "10k",
+      "desc": "gatau gua",
+      "foto": "https://telegra.ph/file/86ea1e1a000f801c5d004.jpg",
+      "id": "02"
+    },
+    "01": {
+      "nama": "anjg",
+      "harga": "20k",
+      "desc": "gatau juga gua",
+      "foto": "https://telegra.ph/file/86ea1e1a000f801c5d004.jpg",
+      "id": "01"
+    }
+  }
+}
